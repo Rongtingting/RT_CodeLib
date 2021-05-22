@@ -2,6 +2,7 @@
 ## library management
 
 ## input and output
+### read.table() and the blabla
 
 
 ### Rdata v.s. rds
@@ -33,6 +34,8 @@ save(iris, cars, file = "myIrisAndCarsData.Rdata")
 load("myIrisAndCarsData.Rdata")
 ```
 Notes: for single or multiple objects
+
+ref-https://www.jianshu.com/p/aca662db800e
 
 
 ## 

@@ -8,6 +8,6 @@
 ## File compressed and uncompressed
 
 ```
-uncompressed tar.gz file
+# uncompressed tar.gz file
 tar -zxvf ×××.tar.gz
 ```

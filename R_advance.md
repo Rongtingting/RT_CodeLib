@@ -10,7 +10,7 @@
 
 
 
-##
+## RC
 
 ref:
 - http://www.biomooc.com/R/R-OOP.html#4
@@ -19,4 +19,5 @@ ref:
 
 ## Ref
 [Advanced R by Hadley Wickham](http://adv-r.had.co.nz/)
-[R_in_Action.pdf]()
+
+[R_in_Action.pdf](https://github.com/Rongtingting/RT_Library/blob/master/Book/R_in_Action.pdf)

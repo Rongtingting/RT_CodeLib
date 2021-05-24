@@ -21,3 +21,19 @@ ref:
 [Advanced R by Hadley Wickham](http://adv-r.had.co.nz/)
 
 [R_in_Action.pdf](https://github.com/Rongtingting/RT_Library/blob/master/Book/R_in_Action.pdf)
+
+[R_in_action_2nd_live](https://livebook.manning.com/book/r-in-action-second-edition)
+
+[R_in_action_3rd_live](https://livebook.manning.com/book/r-in-action-third-edition)
+
+[Quick-R](https://www.statmethods.net/)
+
+[Cook book on r](http://www.cookbook-r.com/)
+
+[R for data sciences](https://r4ds.had.co.nz/)
+
+[Hadley Wickham](http://hadley.nz/)
+
+[The R Graph Gallery](https://www.r-graph-gallery.com/)
+
+[R Package Documentation](https://rdrr.io/)   Find an R package by name, find package documentation, find R documentation, find R functions, search R source code...

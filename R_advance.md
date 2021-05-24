@@ -37,3 +37,30 @@ ref:
 [The R Graph Gallery](https://www.r-graph-gallery.com/)
 
 [R Package Documentation](https://rdrr.io/)   Find an R package by name, find package documentation, find R documentation, find R functions, search R source code...
+
+
+# R accelerate & apply family
+
+http://www.biomooc.com/R/R-apply.html
+
+# R visualization & ggplot2
+
+http://www.biomooc.com/R/R-draw-sketch.html
+
+http://www.biomooc.com/R/R-draw-basic.html
+
+http://www.biomooc.com/R/R-draw-basic2.html
+
+http://www.biomooc.com/R/R-draw-intermediate.html
+
+http://www.biomooc.com/R/R-draw-adv-lattice.html
+
+http://www.biomooc.com/R/R-draw-adv-ggplot2.html
+
+http://www.biomooc.com/R/R-color.html
+
+## R for publication figs
+
+packages
+
+

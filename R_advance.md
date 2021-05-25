@@ -43,6 +43,9 @@ ref:
 
 http://www.biomooc.com/R/R-apply.html
 
+# tidyverse
+https://www.tidyverse.org/
+
 # R visualization & ggplot2
 
 http://www.biomooc.com/R/R-draw-sketch.html

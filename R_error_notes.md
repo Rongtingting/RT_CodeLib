@@ -15,6 +15,8 @@ in Rscript, specify the repos.
 ```
 install.packages("devtools",repos='https://cran.rstudio.com')
 ```
+[install.packages: Install Packages from Repositories or Local Files](https://rdrr.io/r/utils/install.packages.html)
+
 
 ## Win
 

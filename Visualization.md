@@ -4,15 +4,20 @@ setup: 2021-05-24
  
 update: 2021-07-24
 
-# Font
+# Python
+## Font
 [Customizing Matplotlib with style sheets and rcParams](https://matplotlib.org/stable/tutorials/introductory/customizing.html)
 
 [Customizing matplotlib-global settings](https://blog.csdn.net/cdqn10086/article/details/77888660)
 
+## legend
+[custmoized legend](https://matplotlib.org/3.2.1/tutorials/intermediate/legend_guide.html)
+
+- Creating artists specifically for adding to the legend (aka. Proxy artists)
+- Multiple legends on the same Axes
 
 
-
-# Ref
+## Ref
 
 - matplotlib
 [Matplotlib Overview](https://matplotlib.org/stable/contents.html)
@@ -35,5 +40,13 @@ https://matplotlib.org/stable/tutorials/introductory/usage.html
 
 [adjustment sets](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkxMzE0MjUzNQ==&action=getalbum&album_id=1696475684874813449&scene=173&from_msgid=2247483933&from_itemidx=2&count=3&nolastread=1#wechat_redirect)
 
+
+[OffsetBox-add customized item](https://mp.weixin.qq.com/s?__biz=MzkxMzE0MjUzNQ==&mid=2247486436&idx=1&sn=468ba401c22949c73f2ecb0877487929&chksm=c1036d8cf674e49a3b2c47401f2037d691915eee4023167b9ff787c7d99370f45538a1e69080&scene=178&cur_album_id=1690409955863887876#rd)
+
+
 - seaborn
 [seaborn: statistical data visualization](https://seaborn.pydata.org/#)
+
+
+# R
+## 

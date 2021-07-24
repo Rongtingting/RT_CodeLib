@@ -3,6 +3,7 @@ setup:2021-05-24
 update:
 
 # Font
+[Customizing Matplotlib with style sheets and rcParams](https://matplotlib.org/stable/tutorials/introductory/customizing.html)
 
 [Customizing matplotlib-global settings](https://blog.csdn.net/cdqn10086/article/details/77888660)
 

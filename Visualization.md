@@ -48,6 +48,8 @@ https://matplotlib.org/stable/tutorials/introductory/usage.html
 - seaborn
 [seaborn: statistical data visualization](https://seaborn.pydata.org/#)
 
+[Subplotting with matplotlib and seaborn](https://dev.to/thalesbruno/subplotting-with-matplotlib-and-seaborn-5ei8)
+
 
 ## heatmap explore
 [additional row colors in seaborn cluster map](https://stackoverflow.com/questions/48173798/additional-row-colors-in-seaborn-cluster-map)

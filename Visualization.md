@@ -1,6 +1,8 @@
 HUANG Rongting
-setup:2021-05-24
-update:
+ 
+setup: 2021-05-24
+ 
+update: 2021-07-24
 
 # Font
 [Customizing Matplotlib with style sheets and rcParams](https://matplotlib.org/stable/tutorials/introductory/customizing.html)
@@ -34,4 +36,4 @@ https://matplotlib.org/stable/tutorials/introductory/usage.html
 [adjustment sets](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkxMzE0MjUzNQ==&action=getalbum&album_id=1696475684874813449&scene=173&from_msgid=2247483933&from_itemidx=2&count=3&nolastread=1#wechat_redirect)
 
 - seaborn
-[]
+[seaborn: statistical data visualization](https://seaborn.pydata.org/#)

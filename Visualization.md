@@ -17,6 +17,7 @@ update: 2021-07-24
 - Multiple legends on the same Axes
 
 
+
 ## Ref
 
 - matplotlib
@@ -47,6 +48,11 @@ https://matplotlib.org/stable/tutorials/introductory/usage.html
 - seaborn
 [seaborn: statistical data visualization](https://seaborn.pydata.org/#)
 
+
+## heatmap explore
+[additional row colors in seaborn cluster map](https://stackoverflow.com/questions/48173798/additional-row-colors-in-seaborn-cluster-map)
+
+[display-legend-of-seaborn-clustermap-corresponding-to-the-row-colors](https://stackoverflow.com/questions/62473426/display-legend-of-seaborn-clustermap-corresponding-to-the-row-colors)
 
 # R
 ## 

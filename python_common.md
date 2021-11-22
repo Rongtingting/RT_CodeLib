@@ -51,6 +51,42 @@ if __name__ == '__main__':
     print("多进程计算 共消耗: " + "{:.2f}".format(elapsed_sec) + " 秒")
 
 ```
+
+### nan value
+https://blog.csdn.net/maymay_/article/details/107034221
+1. numpy.nan是一个numpy.float64的非空对象，所以不能直接用bool表达式去判断，故一切依赖于布尔表达式的判断方式都不行，比如if语句。
+2. 对于pandas中空值的判断，我们只能通过pandas或者numpy的函数和is表达式去判断，不能用python的内置函数any或all判断。
+
+
+**可以判断pandas中单个空值对象的方式：**
+1、利用pd.isnull(),pd.isna();
+
+2、利用np.isnan();
+
+3、利用is表达式；
+
+4、利用in表达式。
+
+**不可以用来判断pandas单个空值对象的方式：**
+1、不可直接用==表达式判断；
+
+2、不可直接用bool表达式判断；
+
+3、不可直接用if语句判断。
+
+**对于同时多个空值对象的判断和处理：**
+1、可以用Series对象和DataFrame对象的any()或all()方法；
+
+2、可以用numpy的any()或all()方法；
+
+3、不可以直接用python的内置函数any()和all()方法；
+
+4、可以用Series或DataFrame对象的dropna()方法剔除空值；
+
+5、可以用Series或DataFrame对象的fillna()方法填充空值。
+
+
+
 # python in bio
 
 

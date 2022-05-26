@@ -13,7 +13,10 @@ cellranger_outs_genes_2 = cellranger_outs_genes.drop_duplicates(subset=[1],keep=
 cellranger_outs_genes_3 = pd.concat([cellranger_outs_genes_1, cellranger_outs_genes_2]).drop_duplicates(subset=[1],keep=False)
 ```
 ### scipy
+## sparse matrix
 
+`x * y no longer performs matrix multiplication, but element-wise multiplication (just like with NumPy arrays). To make code work with both arrays and matrices, use x @ y for matrix multiplication.`
+https://docs.scipy.org/doc/scipy/reference/sparse.html
 
 ## Function based 
 ### multiprocessing

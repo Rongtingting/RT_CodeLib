@@ -16,7 +16,9 @@ update: 2021-07-24
 - Creating artists specifically for adding to the legend (aka. Proxy artists)
 - Multiple legends on the same Axes
 
+## base
 
+[Handling Plot Axis Spines in Python](https://towardsdatascience.com/handling-plot-axis-spines-in-python-f143b8554da2)
 
 ## Ref
 

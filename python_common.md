@@ -96,4 +96,6 @@ https://blog.csdn.net/maymay_/article/details/107034221
 # visualization
 
 # logging
+python log 入门
+https://segmentfault.com/a/1190000015143449
 https://www.blog.pythonlibrary.org/2012/08/02/python-101-an-intro-to-logging/
